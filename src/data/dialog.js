@@ -189,21 +189,21 @@ export default {
             id: 2002,
             details: [
                 '聊不下去了，那就去逛逛我的博客吧<br> <br>',
-                '<a href="https://taylortaurus.top" target="_blank">TaylorTaurus\' Blog</a>',
+                '<a href="https://blog.taylortaurus.top/" target="_blank">TaylorTaurus\' Blog</a>',
 		        '<br/ >或是点击左上角，跳转',
             ]
         },
         { 
             id: 4000,
             details: [
-                '<a href="https://taylortaurus.top" target="_blank">TaylorTaurus\' Blog</a>',
+                '<a href="https://blog.taylortaurus.top/" target="_blank">TaylorTaurus\' Blog</a>',
 		        '<br/ >或是点击左上角，跳转',
             ]
         },
         { 
             id: 4001,
             details: [
-                '<a href="https://ranorex.xyz" target="_blank">Ranorex 用户手册</a>',
+                '<a href="https://ranorex.xyz/" target="_blank">Ranorex 用户手册</a>',
 		        '<br/ >或是点击左上角，跳转',
             ]
         },
@@ -217,8 +217,8 @@ export default {
     fromUser: [
         {
             id: 9002,
-            brief: "博客",
-            content: "博客",
+            brief: "Blog",
+            content: "TaylorTaurus\' Blog",
             nextElevenbeans: 4000
         },
         {

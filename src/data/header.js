@@ -1,7 +1,7 @@
 export const LINK_CONFIG = [
   {
     text: 'Blog',
-    link: 'https://taylortaurus.top/'
+    link: 'https://blog.taylortaurus.top/'
   },
   {
     text: 'Ranorex',

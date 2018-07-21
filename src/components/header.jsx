@@ -7,7 +7,7 @@ const AppHeader = () => (
         <li>
           <a
             target = "_blank"
-            href = "https://taylortaurus.top/"
+            href = "https://blog.taylortaurus.top/"
           >
             Blog
           </a>
