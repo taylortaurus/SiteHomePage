@@ -120,9 +120,10 @@ export default {
 	    { 
             id: 3001,
             details: [
-                "是的，本页修改于Elevenbeans' Site,感谢原作者<br><br>",
-                "博客使用的是Hexo+Next主题",
-                "<br /><br />托管于Coding Pages。"
+                "是的，本页修改于Elevenbeans' Site,感谢原作者。",
+                "<br /><br />博客为Hexo,",
+                "<br />主题为NexT,",
+                "<br />托管于Coding Pages。"
             ],
             responses: [
                 {
@@ -149,7 +150,7 @@ export default {
             id: 3002,
             details: [
 
-                '写写博客，玩玩露露',    
+                '写写博客，玩玩露露。',    
             ],
             hasMore: 30020,
         },
@@ -157,33 +158,30 @@ export default {
             id: 30020,
             details: [
                 '<img src = "./src/img/lulu.jpg" />'
+            ],
+            hasMore: 30021,
+        },
+        {
+            id: 30021,
+            details: [
+                '日: ありがとう、ママハハ',
+                '<br />中: 谢谢你，玛玛哈哈'
+            ],
+            hasMore: 30022,
+        },
+        {
+            id: 30022,
+            details: [
+                '日: さあ、立ちなさい',
+                '<br />中: 现在，站起来'
             ]
         },
         { 
             id: 2001,
             details: [
-                "当然，亲。网络世界中的不期而遇，本就是一种缘分。"
+                "当然，亲~，网络世界中的不期而遇，本就是一种缘分。"
             ],
-            responses: [
-                {
-                    content: "你是谁？",
-                    nextElevenbeans: [
-                        3000
-                    ]
-                },
-                {
-                    content: "这是你的网站吗？",
-                    nextElevenbeans: [
-                        3001
-                    ]
-                },
-                {
-                    content: "业余时间都做什么呀？",
-                    nextElevenbeans: [
-                        3002
-                    ]
-                }
-            ]
+            hasMore: 2000,
         },
         { 
             id: 2002,
