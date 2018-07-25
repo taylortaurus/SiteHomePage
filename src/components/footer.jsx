@@ -7,15 +7,15 @@ const AppFooter = () => (
       href="http://elevenbeans.me/"
       target="_blank"
     >
-      Elevenbeans' Site
-    </a>,
+      Elevenbeans' Site.
+    </a>
     <p>
       Hosted by&nbsp;
       <a
         href="https://pages.coding.me"
         target="_blank"
       >
-        Coding Pages
+        Coding Pages.
       </a>
     </p>
   </footer>
