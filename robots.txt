@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Disallow: /dist/
+Disallow: /src/actions/
+Disallow: /src/components/
+Disallow: /src/containers/
+Disallow: /src/data/
+Disallow: /src/reducers/
+Disallow: /src/style/
+Disallow: /src/vendor/
+
+
+
