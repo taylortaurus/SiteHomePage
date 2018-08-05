@@ -12,7 +12,8 @@ export default {
             id: 1000,
             details: [
                 "欢迎来到我的站点，<br>",
-                "很高兴在这里遇见你！"
+                "很高兴在这里遇见你！",
+                '<a href="https://yanshuo.io/assets/player/?deck=5b66f3e5fe88c2005adeb842#/" target="_blank"> <img src = "./src/img/skr.jpg" /></a>'
             ],
             responses: [
                 {
@@ -33,7 +34,7 @@ export default {
                         2002
                     ]
                 }
-            ]
+            ],
         },
         { // yes
             id: 2000,
