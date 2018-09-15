@@ -13,7 +13,7 @@ export default {
             details: [
                 "欢迎来到我的站点，<br>",
                 "很高兴在这里遇见你！",
-                '<a href="https://yanshuo.io/assets/player/?deck=5b66f3e5fe88c2005adeb842#/" target="_blank"> <img src = "./src/img/skr.jpg" /></a>'
+                '<a href="https://xlab.taylortaurus.top/" target="_blank"> <img src = "./src/img/skr.jpg" /></a>'
             ],
             responses: [
                 {
