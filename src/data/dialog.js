@@ -13,7 +13,7 @@ export default {
             details: [
                 "欢迎来到我的站点，<br>",
                 "很高兴在这里遇见你！",
-                '<a href="https://xlab.taylortaurus.top/coderain/" target="_blank"> <img src = "./src/img/skr.jpg" /></a>'
+                '<a href="https://xlab.taylortaurus.top/coderain/" target="_blank"> <img src = "https://i.loli.net/2018/10/03/5bb4c5c139590.gif" width="150" height="110"/></a>'
             ],
             responses: [
                 {
